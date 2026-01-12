@@ -2,7 +2,7 @@
 
 I'm a full-stack software engineer specialising in web technologies.
 
-I'm currently working with TypeScript and React Native at [Enlock](http://www.enlock.com) to build a fully encrypted online workspace.
+I'm currently working with TypeScript and React @ [Goodnotes][https://www.goodnotes.com/)
 
 Previously I've worked with TypeScript and React at [Typeform](http://www.typeform.com), and have experience with Clojure at [Relish](http://www.hellorelish.com), as well as Ruby on Rails at [FreeAgent](http://www.freeagent.com).
 
